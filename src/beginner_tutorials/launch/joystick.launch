@@ -1,0 +1,8 @@
+<launch>
+
+    <node pkg="joy" type="joy_node" name="joy"/>    
+    <node pkg="beginner_tutorials" type="joy_node_sim.py" name="joymapper" output="screen">
+    </node>
+
+</launch>
+
