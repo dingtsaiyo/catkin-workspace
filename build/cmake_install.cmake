@@ -132,6 +132,10 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/arg/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/arg/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
+  include("/home/arg/catkin_ws/build/darknet_ros/darknet_ros_msgs/cmake_install.cmake")
+  include("/home/arg/catkin_ws/build/darknet_ros/darknet_ros/cmake_install.cmake")
+  include("/home/arg/catkin_ws/build/turtle/cmake_install.cmake")
+  include("/home/arg/catkin_ws/build/video_stream_opencv/cmake_install.cmake")
 
 endif()
 

@@ -1,2 +1,2 @@
-beginner_tutorials
+beginner_tutorials:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:turtle:video_stream_opencv
 -DCATKIN_DEVEL_PREFIX=/home/arg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arg/catkin_ws/install -G Unix Makefiles
